@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="MyBindingArgumentXAML/MyBindingArgumentXAML.csproj" Id="75ed8804-c503-45b4-8bf2-c6a0610dbd44" />
+  <Project Path="MyBindingDataContext/MyBindingDataContext.csproj" Id="b415cb6d-11df-411e-9859-ff83d43cede5" />
   <Project Path="MyBindingSimpleClassCollections/MyBindingSimpleClassCollections.csproj" Id="c42fc60b-349b-4060-8101-4a93e50b60b8" />
 </Solution>
